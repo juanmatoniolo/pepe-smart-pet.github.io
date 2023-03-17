@@ -1,0 +1,201 @@
+body {
+  font-family: "Blinker", sans-serif;
+  color: #696868;
+  width: 100%;
+}
+
+.datos {
+  padding: 0%;
+  margin: 0%;
+}
+
+p {
+  font-size: 14px;
+  padding: 0;
+}
+
+.columna {
+  background-color: #bab7b725;
+  box-shadow: 3px 3px 6px 4px #d3d3d3d1;
+  padding: 0;
+  margin: 15px auto;
+  padding: 10px 1px;
+  border-radius: 20px;
+  height: 184px;
+  width: 330px;
+}
+
+.nav-nav {
+  background-color: #6c5c94;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #6c5c94;
+}
+.img-nav {
+  margin-left: 10px;
+  padding: 5px;
+  min-width: auto;
+  max-width: 120px;
+  margin-right: 32px;
+}
+
+.botones {
+  display: flex;
+  justify-content: end;
+  height: 90%;
+  gap: 10px;
+}
+
+.btn-1 {
+  background-color: #cd7fa7;
+  color: #fff;
+  margin-right: 5px;
+  min-width: auto;
+  max-width: 250;
+  border-top-width: thin;
+  border-right-width: thin;
+  border-bottom-width: thin;
+  border-left-width: thin;
+  border: 2px solid #00000028;
+}
+
+.btn-2 {
+  background-color: #fff;
+  color: #cd7fa7;
+  border-radius: 10px;
+  border-top-width: thin;
+  border-right-width: thin;
+  border-bottom-width: thin;
+  border-left-width: thin;
+  border: 2px solid #00000028;
+}
+
+.descripcion {
+  background-color: #bab7b725;
+  box-shadow: 3px 3px 6px 4px #d3d3d3d1;
+  margin: 16px auto;
+  padding: 10px 1px;
+  border-radius: 10px;
+
+  width: 330px;
+}
+.descripcion-texto {
+  margin-left: 10px;
+}
+h3,
+h4,
+h1,
+h2,
+h5,
+h6 {
+  color: #000;
+}
+
+.contactos {
+  margin: 0% auto;
+}
+
+.contactos-persona-1 {
+  background-color: #bab7b725;
+  box-shadow: 3px 3px 6px 4px #d3d3d3d1;
+  border-radius: 10px;
+  min-width: 300px;
+  max-width: 368px;
+  margin-top: 12px;
+  margin-bottom: 24px;
+}
+.img-redes {
+  padding: 0%;
+  text-align: start;
+}
+
+.contactos-persona-2 {
+  background-color: #bab7b725;
+  box-shadow: 3px 3px 15px 8px #d3d3d3d1;
+  border-radius: 10px;
+  min-width: 360px;
+  max-width: 368px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+.contactos-nombre {
+  text-align: start;
+  padding: 0;
+  margin: -15 auto;
+}
+
+.redes-vinculos-botones {
+  border-top-width: thin;
+  border-right-width: thin;
+  border-bottom-width: thin;
+  border-left-width: thin;
+  background-color: #cd7fa7;
+  color: #fff;
+  border-radius: 10px;
+  height: 60%;
+  width: 105px;
+}
+.redes {
+  display: flex;
+  justify-content: space-around;
+  gap: 8px;
+  width: 100%;
+  height: 64px;
+}
+
+.redes-nombres {
+  padding-left: 2px;
+  margin: 0%;
+}
+
+.texto-copy {
+  color: #6c5c94;
+  margin: 1px;
+}
+
+.redes-creador {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+.footer-iconos {
+  width: 18px;
+  height: 18px;
+  color: #6c5c94;
+}
+
+.mensajeError{
+  width: 100%;
+  height: 300px;
+}
+.conError{
+margin-top: 100px;
+}
+.mensajeErrorH1{
+  color: #cd7fa7;
+}
+small{
+  color: #cd7fa7;
+
+}
+.btn-error{
+  color: #fff;
+  background-color: #6c5c94;
+  margin-top: 20px;
+  border-top-width: thin;
+  border-right-width: thin;
+  border-bottom-width: thin;
+  border-left-width: thin;
+  border: 1px solid #0000002a;
+  border-radius: 12px;
+  height: 2em;
+}
+
+.primerUso{
+  height: 300px;
+  width: 100%;
+}
