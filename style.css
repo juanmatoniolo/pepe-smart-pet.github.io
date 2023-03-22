@@ -196,34 +196,6 @@ small{
 }
 
 .primerUso{
- 
+  height: 300px;
   width: 100%;
-  padding: 15%;
-  margin: 0 auto;
-
-
-}
-
-.tituloNuevo-texto{
-  color: #cd7fa7;
-  margin: 15px;
-}
-
-
-.h1-nuevo{
-  margin-bottom: 30px;
-  text-align: center;
-  
-}
-
-.h3-nuevo{
-font-size: medium;
-}
-
-.btn{
-  background-color: #6c5c94;
-  color: #fff;
-  margin: 15px;
-
-  
 }
